@@ -1,2 +1,4 @@
 # Hello_world
-This is a description of a test repository. 
+
+This is the first repository. It is a test repository with a test branch called 'new_branch'. 
+The 'new_branch' is a first commit in this project. 
