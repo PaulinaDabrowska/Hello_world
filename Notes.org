@@ -1,0 +1,149 @@
+Quick notes and ideas
+Paulina Dąbrowska
+
+Földy, C., Dyhrfjeld-Johnsen, J. and Soltesz, I. (2005), Structure of cortical microcircuit theory. The Journal of Physiology, 562: 47–54. doi:10.1113/jphysiol.2004.076448 
+-> Chapter about Graph theoretical approaches for determining the basic architecture of cortical microcircuits, SMALL WORLD NETWORK
+
+Mary Brazier - an expert on the HISTORY OF NEUROSCIENCE
+
+Santiago Ramon y Cajal 1906 article ot nobleprize.org
+
+"What is life?" Edwin Schroedinger
+-trying to explain life and biology by means of laws of physics
+
+Alan Turing -> works trying to describe organism development (namely growing) by mathematical equations 
+
+08.11.16
+Alain Destexhe (2010), Inhibitory “noise”. Front. Cell. Neurosci., | http://dx.doi.org/10.3389/fncel.2010.00009 
+-> fluctuations of CONDUCTANCE, decomposition into conductance due to excitatory and inhibitory inputs, conductance drop preceding action potential due to INHIBITORY FLUCTUATIONS 
+
+Frontiers in Evolutionary Neuroscience -> articles about yawning
+
+Frontiers for Young Minds
+
+09.11.16
+*** Attila I. Gulyás*, Tamás F. Freund and Szabolcs Káli (2016) The Effects of Realistic Synaptic Distribution and 3D Geometry on Signal Integration and Extracellular Field Generation of Hippocampal Pyramidal Cells and Inhibitory Neurons. Front. Neural Circuits, 08 November 2016 | http://dx.doi.org/10.3389/fncir.2016.00088 
+- area CA1 of RAT HIPPOCAMPUS 
+- The question of how accurately these experiments can measure synaptic inputs, and how this depends on the characteristics of the cells such as their morphology or the locations of the inputs, has not been examined systematically. These factors would only be negligible if neurons were well-approximated by an electrotonically compact cylinder with uniform distributions of excitatory and inhibitory inputs. 
+THIS MODEL IS INCORRECT AT THREE POINTS: 
+(1) neurons are not electrotonically compact (few long, narrow parts and relatively uniform membrane potential); 
+(2) synaptic inputs are not evenly distributed over the surface of cells, and the distribution is cell type specific; 
+(3) neuronal processes intermingle (become mixed together) in 3D, and thus cells may cancel their own extracellular signal and the signal of other cells. 
+- excitatory cells form SINGLE SYNAPSES on pyramidal neurons, inhibitory cells form MULTIPLE SYNAPSES (6-10) on targetted pyramidal cells, mainly on soma and proximal regions of the cell surface. 
+
+NeuroMorpho.org -> 3D reconstructions of nervous cells, also MACAQUE CORTEX (mainly PREFRONTAL cortex)
+
+Kenneth D. Harris & Thomas D. Mrsic-Flogel (2013) Cortical connectivity and sensory coding. Nature 503, 51–58 | doi:10.1038/nature12654 
+-> characterization of PRINCIPAL CELLS  and INTERNEURONS + specific connectivity (clusters of principal cells with bidirectional connections and nonspecific inhibitory connections)
+-> visual cortex
+
+
+10.11.16 & 11.11.16
+Spike Timing Dependent Plasticity (STDP)
+
+Thilo Werner1, Elisa Vianello, Olivier Bichler, Daniele Garbin, Daniel Cattaert, Blaise Yvert, Barbara De Salvo and Luca Perniola (2016) Spiking Neural Networks Based on OxRAM Synapses for Real-Time Unsupervised Spike Sorting. Front. Neurosci. 
+-> machine-learning-based SPIKE SORTING, aims at real-time application in BCI, implants
+-> OxRAM - Oxide based RRAM (hardware), low power, low currents, potential artificial synapses for neuromorphic systems (RRAM - resistive RAM) (10 OxRAM devices/synapse)
+-> good DESCRIPTION of typical SPIKE PROPERTIES (also in frequency domain)
+-> spiking neural network (SNN) with at least as many output neurons as the number of (expected) different waveforms in the signal (lateral inhibition in the output layer to prevent redundant classification)
+-> "even if the frequency patterns of Spike A and B are overlapping, two independent output neurons are assigned for the two different spikes"
+-> paragraph just before Conclusion part
+
+
+11.11.16
+Tomofumi Oga, Tsuguhisa Okamoto and Ichiro Fujita (2016) Basal Dendrites of Layer-III Pyramidal Neurons do not Scale with Changes in Cortical Magnification Factor in Macaque Primary Visual Cortex. Front. Neural Circuits
+-> cortical representation of foveal area of retina is bigger than of more distant parts of visual field (eccentricity-dependent differences in cortical representation size)
+-> anatomy of dendrites does not differ between different cortical areas
+
+
+14.11.2016
+Yasuhiro Tsubo, Yoshikazu Isomura and Tomoki Fukai (2013) Neural dynamics and information representation in microcircuits of motor cortex. Front. Neural Circuits 
+-> RAT MOTOR CORTEX
+-> constrained maximization of firing-rate entropy (CMFE) as a hypothesis for the neural code
+-> power-law distributions of ISIs measured in vivo in behaving animals 
+-> phase-response curves (PRCs) calculated from in vitro recordings
+-> "The PRC describes the response of an oscillator to a weak perturbation given at a certain phase of oscillation (...) Depending on the stimulus time, the subsequent spike will be generated at an earlier or a later time. If a small perturbed current injected to a neuron advances the time of spike firing in the subsequent oscillatory cycle, the corresponding PRC takes a positive value at the phase angle. If the current delays the next spike, the value of PRC is negative. The PRC of a neuron can be classified into type 1 or type 2, depending on whether the curve almost always takes positive values (type 1) or takes both positive and negative values (type 2)."
+-> "Our approach uncovered the functional diversity of pyramidal cells and functional uniformity of fast-spiking (FS) interneurons across all cortical layers in the expression of voluntary movement." 
+
+Douglas M. Bowden Mark F. Dubach (2003) NauroNames 2002. Neuroinformatics
+-> http://braininfo.rprc.washington.edu online atlas of macaque brain (2 species of macaque)
+
+Sporns, O. & Zwi, J.D. (2004) The small world of the cerebral cortex. Neuroinform 2: 145. doi:10.1385/NI:2:2:145 
+-> examines cerebral cortex connecivity data 
+-> SMALL WORLD properties (graph theory) 
+-> MACAQUE and cat cortex connectivity matrices as in Potjans&Diesmann model description (not cited by Potjans & Diesmann though) 
+->  large-scale connection matrices are characterized by very short average distances between any two vertices while at the same time maintaining a high degree of clustering 
+-> DISTANCE DEPENDENT HORIZONTAL CONNECTION PROBABILITY based on two gaussians: local and global 
+
+
+15.11.2016
+Nature Neuroscience Focus on neural computation and theory (http://www.nature.com/neuro/focus/neural-computation-and-theory/index.html) from March 2016
+
+Robert Rosenbaum, Matthew A Smith, Adam Kohn, Jonathan E Rubin & Brent Doiron (2016) The spatial structure of correlated neuronal variability. Nature Neuroscience 
+
+18.11.16
+journal English for Specific Purposes
+
+http://web.simmons.edu/~benoit/lis642/a-tutorial-on-correlation-coefficients.pdf 
+
+From Shinomoto article about LV - local CV:
+Tiesinga, Fellous, & Sejnowski (2002) showed that in vitro neurons and leaky integrate-and-fire model neurons driven by fluctuating stimuli do not produce Poisson spike trains; rather, the ISIs are correlated.
+
+
+29.11.2016
+directory of OPEN ACCESS BOOKS: http://www.doabooks.org/doab?uiLanguage=en
+
+16.12.16
+* Miguel Á. García-Cabezas, Yohan J. John, Helen Barbas and Basilis Zikopoulos (2016) ''Distinction of Neurons, Glia and Endothelial Cells in the Cerebral Cortex: An Algorithm Based on Cytological Features'' Front. Neuroanat. [https://doi.org/10.3389/fnana.2016.00107]
+- based on data from HUMAN and MACAQUE CORTEX
+- precise description of morfology of different neurons and glial cells types with detailed figures (photos from light and electron microscopy and hand-drawn schemes)
+- brief description and review of methods used in differentiation between cell types based on morphology
+- provides validated algorithm for performing the differentiation (list of instructions for human user, no automatic method possible so far)
+
+* Kathleen S. Rockland and Javier DeFelipe (2016) ''Editorial: Neuroanatomy for the XXIst Century'' Front. Neuroanat. [https://doi.org/10.3389/fnana.2016.00070]
+- lists 16 articles describing major techniques used currently in neuroanatomy
+
+* Fernando de Castro and Miguel A. Merchán (2016) ''Editorial: The Major Discoveries of Cajal and His Disciples: Consolidated Milestones for the Neuroscience of the XXIst Century'' Front. Neuroanat. [https://doi.org/10.3389/fnana.2016.00085]
+- HISTORY OF NEUROSCIENCE and in particular of Cayal's School
+- collects articles concerning topics covered by Ramon y Cayal and his disciples and comparing their original views with currently accepted theories
+
+* Markus Butz, Wolfram Schenck and Arjen van Ooyen (2016) ''Editorial: Anatomy and Plasticity in Large-Scale Brain Models'' Front. Neuroanat. [https://doi.org/10.3389/fnana.2016.00108]
+- enumerates and summarizes a range of large-scale models dealing with anatomical detail and plasticity, e.i. with rewiring of the network on the run
+- also about several models developed in Jülich or with methods (e.g. SpiNNaker) used by people here
+- together with different articles signalises software used in the context of large-scale computing
+
+* Rikkert Hindriks, Xerxes D. Arsiwalla, Theofanis Panagiotaropoulos, Michel Besserve, Paul F. M. J. Verschure, Nikos K. Logothetis and Gustavo Deco (2016) ''Discrepancies between Multi-Electrode LFP and CSD Phase-Patterns: A Forward Modeling Study'' Front. Neural Circuits [https://doi.org/10.3389/fncir.2016.00051]
+- compares and discusses LFP (Local Field Potential) and CSD (Current Source Density) relation
+
+19.12.16
+* Oscar Herreras (2016) ''Local Field Potentials: Myths and Misunderstandings'' Front. Neural Circuits [https://doi.org/10.3389/fncir.2016.00101]
+- review describing in detail LFP recordings interpretation and revising several typical mistakes, 
+- also provides more literatre on the subject, 
+- discusses influence of geometry on LFP signal,
+- value of considering baseline in LFP interpretation
+- nice pictures illustrating problems (at least the first three...)
+
+
+Carlos Castejon* and Angel Nuñez, Cortical Neural Computation by Discrete Results Hypothesis. Front. Neural Circuits, 19 October 2016 | http://dx.doi.org/10.3389/fncir.2016.00081 -> to read
+Intrinsic Cellular Properties and Connectivity Density Determine Variable Clustering Patterns in Randomly Connected Inhibitory Neural Networks
+Estimating Neural Background Input with Controlled and Fast Perturbations: A Bandwidth Comparison between Inhibitory Opsins and Neural Circuits
+Discrepancies between Multi-Electrode LFP and CSD Phase-Patterns: A Forward Modeling Study
+Motor cortex microcircuits
+
+Mapping Horizontal Spread of Activity in Monkey Motor Cortex Using Single Pulse Microstimulation
+Large scale cortical functional networks associated with slow-wave and spindle-burst-related spontaneous activity
+
+Dynamic Control of Neurotransmitter Release by Presynaptic Potential (Front. Cell. Neurosci.)
+Activated microglia induce bone marrow mesenchymal stem cells to produce glial cell-derived neurotrophic factor and protect neurons against oxygen-glucose deprivation injury
+
+Editorial: “Molecular mechanisms and physiological significance of organelle interactions and cooperation” (Front. Cell Dev. Biol.)
+Methodological Problems on the Way to Integrative Human Neuroscience (Front. Integr. Neurosci.)
+
+The Retrograde Connections and Anatomical Segregation of the Göttingen Minipig Nucleus Accumbens (Front. Neuroanat.)
+Widespread Volumetric Brain Changes Following Tooth Loss in Female Mice
+
+== Paulina ==
+* Attila I. Gulyás*, Tamás F. Freund and Szabolcs Káli (2016) ''The Effects of Realistic Synaptic Distribution and 3D Geometry on Signal Integration and Extracellular Field Generation of Hippocampal Pyramidal Cells and Inhibitory Neurons'' Front. Neural Circuits [http://journal.frontiersin.org/article/10.3389/fncir.2016.00088/full]
+* Kenneth D. Harris & Thomas D. Mrsic-Flogel (2013) ''Cortical connectivity and sensory coding'' Nature 503, 51–58 [http://www.nature.com/nature/journal/v503/n7474/full/nature12654.html] 
+* Thilo Werner1, Elisa Vianello, Olivier Bichler, Daniele Garbin, Daniel Cattaert, Blaise Yvert, Barbara De Salvo and Luca Perniola (2016) ''Spiking Neural Networks Based on OxRAM Synapses for Real-Time Unsupervised Spike Sorting'' Front. Neurosci. [http://journal.frontiersin.org/article/10.3389/fnins.2016.00474/full] 
+* Yasuhiro Tsubo, Yoshikazu Isomura and Tomoki Fukai (2013) ''Neural dynamics and information representation in microcircuits of motor cortex'' Front. Neural Circuits [http://journal.frontiersin.org/article/10.3389/fncir.2013.00085/full]
