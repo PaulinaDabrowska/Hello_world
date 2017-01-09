@@ -38,3 +38,13 @@ from Editorial: The Major Discoveries of Cajal and His Disciples: Consolidated M
 - Rafael Lorente de Nó was a dominant figure in Neuroscience for decades after the IInd World War, first describing the columnar organization of the cerebral cortex 
 - Spanish Neurohistological School (Cajal's School) 
 - Pío del Río-Hortega -> discovery of microglial cells
+
+06.01.2017
+"Mammalian brain activity is rich in rhythms. The preservation of that rhythmic activity during the course of evolution demonstrates its relevance and appears to reflect a common functional mechanism for neural processing."
+Carlos Castejon and Angel Nuñez, Cortical Neural Computation by Discrete Results Hypothesis. Front. Neural Circuits, 19 October 2016
+
+09.01.17
+about open access publishing at Frontiers website: 
+- info & film http://journal.frontiersin.org/journal/neural-circuits#fees
+- article D type is free of charge (also in Front. for Young Minds) 
+

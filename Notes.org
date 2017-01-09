@@ -6,7 +6,7 @@ Földy, C., Dyhrfjeld-Johnsen, J. and Soltesz, I. (2005), Structure of cortical 
 
 Mary Brazier - an expert on the HISTORY OF NEUROSCIENCE
 
-Santiago Ramon y Cajal 1906 article ot nobleprize.org
+Santiago Ramon y Cajal 1906 article at nobleprize.org
 
 "What is life?" Edwin Schroedinger
 -trying to explain life and biology by means of laws of physics
@@ -120,11 +120,15 @@ directory of OPEN ACCESS BOOKS: http://www.doabooks.org/doab?uiLanguage=en
 - review describing in detail LFP recordings interpretation and revising several typical mistakes, 
 - also provides more literatre on the subject, 
 - discusses influence of geometry on LFP signal,
-- value of considering baseline in LFP interpretation
+- value of considering baseline in LFP interpretation, 
 - nice pictures illustrating problems (at least the first three...)
 
+06.01.2017
+* Carlos Castejon and Angel Nuñez (2016) ''Cortical Neural Computation by Discrete Results Hypothesis'' Front. Neural Circuits [http://dx.doi.org/10.3389/fncir.2016.00081] 
+-> neural processing as a series of discrete computational events, 
 
-Carlos Castejon* and Angel Nuñez, Cortical Neural Computation by Discrete Results Hypothesis. Front. Neural Circuits, 19 October 2016 | http://dx.doi.org/10.3389/fncir.2016.00081 -> to read
+
+
 Intrinsic Cellular Properties and Connectivity Density Determine Variable Clustering Patterns in Randomly Connected Inhibitory Neural Networks
 Estimating Neural Background Input with Controlled and Fast Perturbations: A Bandwidth Comparison between Inhibitory Opsins and Neural Circuits
 Discrepancies between Multi-Electrode LFP and CSD Phase-Patterns: A Forward Modeling Study
@@ -132,6 +136,9 @@ Motor cortex microcircuits
 
 Mapping Horizontal Spread of Activity in Monkey Motor Cortex Using Single Pulse Microstimulation
 Large scale cortical functional networks associated with slow-wave and spindle-burst-related spontaneous activity
+
+Estimating Fast Neural Input Using Anatomical and Functional Connectivity
+Large Scale Cortical Functional Networks Associated with Slow-Wave and Spindle-Burst-Related Spontaneous Activity
 
 Dynamic Control of Neurotransmitter Release by Presynaptic Potential (Front. Cell. Neurosci.)
 Activated microglia induce bone marrow mesenchymal stem cells to produce glial cell-derived neurotrophic factor and protect neurons against oxygen-glucose deprivation injury
